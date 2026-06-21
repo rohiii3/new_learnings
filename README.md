@@ -1,4 +1,4 @@
-This is for rohini's contributions to the RL project.
+This is where i post my regular new learnings about programming , machine learning,  maths and stat
 
 
 
